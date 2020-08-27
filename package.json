@@ -4,7 +4,7 @@
   "description": "Linux CLI helper using Node JS",
   "main": "index.js",
   "bin": {
-    "linuxjs": "index.js"
+    "linuxjs": "node index.js"
   },
   "scripts": {
     "test": "node index.js"

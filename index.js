@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const { program } = require('commander');
 const ip = require('ip');
 const os = require('os');

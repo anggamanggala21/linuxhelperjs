@@ -1,6 +1,6 @@
 {
   "name": "linux-helper-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Linux CLI helper using Node JS",
   "main": "index.js",
   "bin": {

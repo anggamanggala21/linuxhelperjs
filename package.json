@@ -1,0 +1,21 @@
+{
+  "name": "linuxhelperjs",
+  "version": "1.0.0",
+  "description": "Linux CLI helper using Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "commander"
+  ],
+  "author": "Angga Manggala",
+  "license": "MIT",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "commander": "^6.0.0",
+    "detect-port": "^1.3.0",
+    "ip": "^1.1.5",
+    "os": "^0.1.1"
+  }
+}

@@ -1,10 +1,10 @@
 {
   "name": "linux-helper-js",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Linux CLI helper using Node JS",
   "main": "index.js",
   "bin": {
-    "linuxjs": "node index.js"
+    "linuxjs": "index.js"
   },
   "scripts": {
     "test": "node index.js"
